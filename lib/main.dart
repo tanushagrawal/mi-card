@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
 //                margin: EdgeInsets.all(30),
               ),
               Text(
-                "Tanush Agarwal",
+                "Tanush B Agarwal",
 //                textScaleFactor: 3,
                 textAlign: TextAlign.center,
                 style: TextStyle(
